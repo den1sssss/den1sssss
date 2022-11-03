@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/dshirely?theme=dark&font=Nunito%20Sans)
 <!--
 **den1sssss/den1sssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
