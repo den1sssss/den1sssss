@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denis Sirazov</h1>
-<h3 align="center">C++ Developer</h3>
+<h3 align="center">Java Developer</h3>
 
 - 🔭 I’m currently working on **stl_containers**
 
