@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Denis Sirazov</h1>
 <h3 align="center">Java Developer</h3>
 
-- 🔭 I’m currently working on **stl_containers**
+- 🔭 I’m currently working on **Multilayer Perceptron**
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dshirely?theme=dark&font=Nunito%20Sans)
 
